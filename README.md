@@ -9,6 +9,7 @@ It's an amazing book.
 
 Some important links: 
 https://github.com/cfenollosa/os-tutorial
+https://github.com/luisfmcalado/MiniOS
 https://wiki.osdev.org/Main_Page
 https://nithinbekal.com/notes/os/
 https://www.youtube.com/playlist?list=PLfciLKR3SgqNJKKIKUliWoNBBH1VHL3AP (MIT Course link on operating system design: IDK how deeply it is covered, It will give it a go)
